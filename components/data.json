@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "KFC",
+    "details": "Details about Item 1",
+    "type": ["FastFood"],
+    "location": {
+      "latitude": 51.9314,
+      "longitude": 4.4888
+    }
+  },
+  {
+    "id": "2",
+    "title": "MCDonalds",
+    "details": "Details about Item 2",
+    "type": ["FastFood"],
+    "location": {
+      "latitude": 51.9237,
+      "longitude": 4.4544
+    }
+  },
+  {
+    "id": "3",
+    "title": "Item 3",
+    "details": "Details about Item 3",
+    "type": ["FastFood"],
+    "location": {
+      "latitude": 51.864210,
+      "longitude": 4.475710
+    }
+  },
+  {
+    "id": "4",
+    "title": "Item 4",
+    "details": "Details about Item 4",
+    "type": ["FastFood"],
+    "location": {
+      "latitude": 51.9364,
+      "longitude": 4.481960
+    }
+  }
+]
