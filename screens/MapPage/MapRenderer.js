@@ -2,7 +2,7 @@ import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import MapViewDirections from 'react-native-maps-directions';
-import darkMapStyle from './darkMapStyle.json'; // Import the dark mode style JSON
+import darkMapStyle from './darkMapStyle.json';
 import { useTheme } from '../SettingsPage/ThemeContext';
 
 const MapRenderer = ({ currentLocation, destination, apiKey, favoriteLocations }) => {
